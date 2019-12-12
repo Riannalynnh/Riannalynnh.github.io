@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,500i|Libre+Baskerville:400,400i,700&display=swap');
+
+body {
+  background-color: #ffe6e6;
+  color: black;
+  font-family: "EB Garamond", serif;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 4px;
+}
+
+h2 {
+  text-align: center;
+  
+}

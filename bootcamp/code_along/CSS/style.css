@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Baskervville|Playfair+Display:400,700i&display=swap');
+
+body {
+  background-color: #ff8000;
+  color: white;
+  font-family: "Playfair Display", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-color: pink;
+  border: 2px solid blue;
+  padding: 30px 0;
+  margin-bottom: 60px;
+}
+
+h2 {
+  text-align: center;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 20px;
+  font-family: "Bakersville", sans-serif;
+}
+
+#first-list {
+  background-color: lime;
+  text-align: center;
+}
+
+#first-list li {
+  display: inline-block;
+  margin: 20px;
+
+}
+
+.mammals {
+  color: red;
+  font-weight: bold;
+}
+
+.birds {
+  color: blue;
+  font-style: italic;
+}
+
+.fish{
+  color: orange;
+  text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
